@@ -1,0 +1,21 @@
+{
+  "name": "hain-plugin-ddg",
+  "version": "1.0.0",
+  "description": "A plugin for Hain that searches DuckDuckGo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qrokodial/hain-plugin-ddg.git"
+  },
+  "keywords": [
+    "hain0"
+  ],
+  "author": "qrokodial",
+  "license": "MIT",
+  "hain": {
+    "prefix": "/ddg",
+    "usage": "/ddg something to search DuckDuckGo",
+    "icon": "#fa fa-search",
+    "redirect": "/ddg "
+  }
+}
