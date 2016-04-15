@@ -1,6 +1,6 @@
 {
   "name": "hain-plugin-ddg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for Hain that searches DuckDuckGo",
   "main": "index.js",
   "repository": {
