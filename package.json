@@ -8,7 +8,7 @@
     "url": "git+https://github.com/qrokodial/hain-plugin-ddg.git"
   },
   "keywords": [
-    "hain0"
+    "search", "internet", "duckduckgo", "ddg", "hain", "hain-plugin", "hain0"
   ],
   "author": "qrokodial",
   "license": "MIT",
